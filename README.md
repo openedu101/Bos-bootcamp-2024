@@ -12,6 +12,10 @@ Chào mừng bạn đến với repository của khoá học BOS Bootcamp. <br/>
 <a href="https://www.youtube.com/channel/UC0QESw8LTPb841qcABmOsvA">terrancrypt</a>.
 </div>
 
+<br/>
+
+Chào mừng bạn đến với Series BOS Bootcamp! Trong khoá học này, chúng ta sẽ khám phá BOS Component, một khái niệm của NEAR Blockchain, và tìm hiểu cách nó đóng góp cho sự phát triển của Web3. 
+
 # Tài nguyên
 
 - **Wallet**
@@ -36,7 +40,11 @@ Chào mừng bạn đến với repository của khoá học BOS Bootcamp. <br/>
 # Phần 1: Xây dựng BOS Component đầu tiên
 _[⭐️ Video #1: Xây dựng BOS Component đầu tiên](https://youtu.be/VU-E30-urYI)_
 
+Video giới thiệu về ý nghĩa của BOS, cách nó hoạt động trong hệ thống Web3, và tại sao nó quan trọng trong việc giải quyết những thách thức của Web2. Hướng dẫn chi tiết cách xây dựng BOS Component, với yêu cầu kiến thức cơ bản về HTML, CSS, JavaScript và React. 
+
 Video chia thành các phần WHY, WHAT, WHERE, và HOW để giải thích mục đích, khái niệm, vị trí, và cách xây dựng BOS Component.
+
+Cuối cùng, mình khuyến khích bạn tự nghiên cứu các ngôn ngữ và công cụ liên quan để tham gia vào việc xây dựng một hệ sinh thái front-end phi tập trung kết nối với nhiều blockchain khác nhau. Khám phá những cơ hội mới trong thế giới phức tạp của blockchain và Web3!
 
 ## BOS Component là gì?
 [NEAR Component Documentation](https://docs.near.org/bos/tutorial/quickstart)
