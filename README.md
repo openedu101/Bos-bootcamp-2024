@@ -5,7 +5,7 @@
 <p align="center">
     <br />
     <a href="https://www.openedu101.com/">
-        <img src=".github/images/takethiscourse.png" width="242.3" alt=""/></a>
+        <img src=".github/images/takethiscourse.png" width="200" h alt=""/></a>
     <br />
 </p>
 Chào mừng bạn đến với repository của khoá học BOS Bootcamp. <br/> Khoá học này được phát triển bởi <a href="https://www.openedu101.com/">OpenEdu101</a> và được tài trợ bởi <a href="https://near.org/">Near Foundation</a>. <br> Trình bày, cập nhật nội dung bởi
@@ -15,6 +15,18 @@ Chào mừng bạn đến với repository của khoá học BOS Bootcamp. <br/>
 <br/>
 
 Chào mừng bạn đến với Series BOS Bootcamp! Trong khoá học này, chúng ta sẽ khám phá BOS Component, một khái niệm của NEAR Blockchain, và tìm hiểu cách nó đóng góp cho sự phát triển của Web3. 
+
+- [Tài nguyên](#tài-nguyên)
+- [Yêu cầu](#yêu-cầu)
+- [Section 1: Xây dựng BOS Component đầu tiên](#section-1-xây-dựng-bos-component-đầu-tiên)
+  - [BOS Component là gì?](#bos-component-là-gì)
+  - [Tại sao nên sử dụng BOS Component?](#tại-sao-nên-sử-dụng-bos-component)
+  - [BOS Component nằm ở đâu trong một hệ thống blockchain?](#bos-component-nằm-ở-đâu-trong-một-hệ-thống-blockchain)
+  - [Xây dựng BOS Component đầu tiên](#xây-dựng-bos-component-đầu-tiên)
+  - [Kết luận và hướng dẫn tiếp theo](#kết-luận-và-hướng-dẫn-tiếp-theo)
+- [Section 2: Tương tác với smart contract](#section-2-tương-tác-với-smart-contract)
+  - [Cách tương tác với NEAR blockchain](#cách-tương-tác-với-near-blockchain)
+  - [Cách tương tác với EVM blockchain](#cách-tương-tác-với-evm-blockchain)
 
 # Tài nguyên
 
@@ -37,7 +49,9 @@ Chào mừng bạn đến với Series BOS Bootcamp! Trong khoá học này, ch�
   - [Front End Development Libraries - Freecodecamp](https://www.freecodecamp.org/learn/front-end-development-libraries/)
   - [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 
-# Phần 1: Xây dựng BOS Component đầu tiên
+
+
+# Section 1: Xây dựng BOS Component đầu tiên
 _[⭐️ Video #1: Xây dựng BOS Component đầu tiên](https://youtu.be/VU-E30-urYI)_
 
 Video giới thiệu về ý nghĩa của BOS, cách nó hoạt động trong hệ thống Web3, và tại sao nó quan trọng trong việc giải quyết những thách thức của Web2. Hướng dẫn chi tiết cách xây dựng BOS Component, với yêu cầu kiến thức cơ bản về HTML, CSS, JavaScript và React. 
@@ -92,6 +106,29 @@ Cuối cùng, mình khuyến khích bạn tự nghiên cứu các ngôn ngữ v�
 - Mục tiêu của BOS là tạo ra một hệ sinh thái front-end có thể tương tác với nhiều blockchain và được xây dựng với tính phi tập trung.
 - Video chỉ là bắt đầu, sẽ có nhiều phần khác với nhiều yếu tố và công cụ khác nhau.
 - Tự tìm hiểu HTML, CSS, JavaScript và React là quan trọng trước khi bắt đầu.
+
+# Section 2: Tương tác với smart contract
+
+Phần này tập trung vào việc tạo các BOS component để giao tiếp với các blockchain khác nhau. Sử dụng `near-api-js` để tương tác với NEAR blockchain và `ethers.js` để tương tác với các blockchain tương thích với EVM.
+
+## Cách tương tác với NEAR blockchain
+
+Contract dùng để tương tác: [guest-book.terrancrypt.testnet](https://testnet.nearblocks.io/address/guest-book.terrancrypt.testnet)
+
+- [Nearblocks](https://testnet.nearblocks.io/)
+- [Interacting with NEAR documennt](https://docs.near.org/bos/api/near)
+- [Jutsu AI](https://jutsu.ai/)
+
+Component hoàn thiện trong phần này: [GuestBookComponent](https://test.near.org/terrancrypt.testnet/widget/GuestBookComponent)
+
+## Cách tương tác với EVM blockchain
+
+Contract dùng để tương tác: [0xc5b16a21c3ceca9a43898886d4d075612c6c917d](https://mumbai.polygonscan.com/address/0xc5b16a21c3ceca9a43898886d4d075612c6c917d)
+
+- [Mumbai Faucet](https://www.alchemy.com/faucets/polygon-mumbai)
+- [Mumbai Network](https://chainlist.org/?search=mumbai&testnets=true)
+- [Mumbai Explorer](https://mumbai.polygonscan.com/) 
+- [NEAR for Ethereum developers documennt](https://docs.near.org/bos/tutorial/ethers-js)
 
 (Updating...)
  
