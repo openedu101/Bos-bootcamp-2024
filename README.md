@@ -108,6 +108,8 @@ Cuối cùng, mình khuyến khích bạn tự nghiên cứu các ngôn ngữ v�
 - Tự tìm hiểu HTML, CSS, JavaScript và React là quan trọng trước khi bắt đầu.
 
 # Section 2: Tương tác với smart contract
+_[⭐️ Video #2: Tương tác với Smart Contracts](https://youtu.be/UpKSOrYPo7M)_
+
 
 Phần này tập trung vào việc tạo các BOS component để giao tiếp với các blockchain khác nhau. Sử dụng `near-api-js` để tương tác với NEAR blockchain và `ethers.js` để tương tác với các blockchain tương thích với EVM.
 
