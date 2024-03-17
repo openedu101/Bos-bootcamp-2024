@@ -121,7 +121,7 @@ Contract dùng để tương tác: [guest-book.terrancrypt.testnet](https://test
 - [Interacting with NEAR documennt](https://docs.near.org/bos/api/near)
 - [Jutsu AI](https://jutsu.ai/)
 
-Component hoàn thiện trong phần này: [GuestBookComponent](https://test.near.org/terrancrypt.testnet/widget/GuestBookComponent)
+Component hoàn thiện trong phần này: [GuestBook](https://test.near.org/terrancrypt.testnet/widget/BOSBootcamp-GuestBook)
 
 ## Cách tương tác với EVM blockchain
 
@@ -132,6 +132,8 @@ Contract dùng để tương tác: [0xc5b16a21c3ceca9a43898886d4d075612c6c917d](
 - [Mumbai Network](https://chainlist.org/?search=mumbai&testnets=true)
 - [Mumbai Explorer](https://mumbai.polygonscan.com/) 
 - [NEAR for Ethereum developers documennt](https://docs.near.org/bos/tutorial/ethers-js)
+
+Component hoàn thiện trong phần này: [EVM Factory](https://test.near.org/terrancrypt.testnet/widget/BOSBootcamp-EVMFactory)
 
 (Updating...)
  
