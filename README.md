@@ -27,6 +27,7 @@ Chào mừng bạn đến với Series BOS Bootcamp! Trong khoá học này, ch�
 - [Section 2: Tương tác với smart contract](#section-2-tương-tác-với-smart-contract)
   - [Cách tương tác với NEAR blockchain](#cách-tương-tác-với-near-blockchain)
   - [Cách tương tác với EVM blockchain](#cách-tương-tác-với-evm-blockchain)
+- [Section 3: Design Component](#section-3-design-component)
 
 # Tài nguyên
 
@@ -134,6 +135,12 @@ Contract dùng để tương tác: [0xc5b16a21c3ceca9a43898886d4d075612c6c917d](
 - [NEAR for Ethereum developers documennt](https://docs.near.org/bos/tutorial/ethers-js)
 
 Component hoàn thiện trong phần này: [EVM Factory](https://test.near.org/terrancrypt.testnet/widget/BOSBootcamp-EVMFactory)
+
+# Section 3: Design Component
+
+_[⭐️ Video #3: Design Component](https://youtu.be/SnxH1_J_tGA)_'
+
+Component hoàn thiện trong phần này: [StyledEVMFactory](https://test.near.social/terrancrypt.testnet/widget/BOSBootcamp-StyledEVMFactory)
 
 (Updating...)
  
