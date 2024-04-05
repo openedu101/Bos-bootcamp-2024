@@ -28,6 +28,7 @@ Chào mừng bạn đến với Series BOS Bootcamp! Trong khoá học này, ch�
   - [Cách tương tác với NEAR blockchain](#cách-tương-tác-với-near-blockchain)
   - [Cách tương tác với EVM blockchain](#cách-tương-tác-với-evm-blockchain)
 - [Section 3: Design Component](#section-3-design-component)
+- [Section 4: Chain-Agnostic Component Design Pattern](#section-4-chain-agnostic-component-design-pattern)
 
 # Tài nguyên
 
@@ -138,9 +139,16 @@ Component hoàn thiện trong phần này: [EVM Factory](https://test.near.org/t
 
 # Section 3: Design Component
 
-_[⭐️ Video #3: Design Component](https://youtu.be/SnxH1_J_tGA)_'
+_[⭐️ Video #3: Design Component](https://youtu.be/SnxH1_J_tGA)_
 
 Component hoàn thiện trong phần này: [StyledEVMFactory](https://test.near.social/terrancrypt.testnet/widget/BOSBootcamp-StyledEVMFactory)
+
+# Section 4: Chain-Agnostic Component Design Pattern
+
+Contract address để sử dụng trong phần này:
+- Polygon Mumbai: [0xc5b16a21c3ceca9a43898886d4d075612c6c917d](https://mumbai.polygonscan.com/address/0xc5b16a21c3ceca9a43898886d4d075612c6c917d)
+- Arbitrum Sepolia: [0x7DFdCaE1e6a90be0b3CD10e949cE30b137Da58f4](0x7DFdCaE1e6a90be0b3CD10e949cE30b137Da58f4)
+- Base Sepolia: [0xF4F18A60Af4E5fe47c193CF9603bF82544C0B617](https://sepolia.basescan.org/address/0xf4f18a60af4e5fe47c193cf9603bf82544c0b617)
 
 (Updating...)
  
