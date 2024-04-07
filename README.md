@@ -147,7 +147,7 @@ Component hoàn thiện trong phần này: [StyledEVMFactory](https://test.near.
 
 Contract address để sử dụng trong phần này:
 - Polygon Mumbai: [0xc5b16a21c3ceca9a43898886d4d075612c6c917d](https://mumbai.polygonscan.com/address/0xc5b16a21c3ceca9a43898886d4d075612c6c917d)
-- Arbitrum Sepolia: [0x7DFdCaE1e6a90be0b3CD10e949cE30b137Da58f4](0x7DFdCaE1e6a90be0b3CD10e949cE30b137Da58f4)
+- Arbitrum Sepolia: [0x7DFdCaE1e6a90be0b3CD10e949cE30b137Da58f4](https://sepolia.arbiscan.io/address/0x7DFdCaE1e6a90be0b3CD10e949cE30b137Da58f4)
 - Base Sepolia: [0xF4F18A60Af4E5fe47c193CF9603bF82544C0B617](https://sepolia.basescan.org/address/0xf4f18a60af4e5fe47c193cf9603bf82544c0b617)
 
 (Updating...)
